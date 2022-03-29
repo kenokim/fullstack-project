@@ -14,8 +14,8 @@ Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. Stack
 
 ![image alt >]()
 ![image alt <](./backend/src/main/resources/pictures/2.png)
-<img src="./backend/src/main/resources/pictures/1.png" height="72px" width="128px">
-<img src="./backend/src/main/resources/pictures/1.png" height="72px" width="128px">
+<img src="./backend/src/main/resources/pictures/1.png" height="50%" width="50%">
+<img src="./backend/src/main/resources/pictures/1.png" height="50%" width="50%">
 
 ### How to start
 git clone [address]
