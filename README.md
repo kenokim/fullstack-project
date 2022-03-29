@@ -6,6 +6,11 @@ Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. Stack
 - Spring Data Jpa / QueryDsl
 - Vue.js + Bootstrap
 
+### Description
+![ex_screenshot](./backend/src/main/resources/pictures/1.png)
+![ex_screenshot](./backend/src/main/resources/pictures/2.png)
+![ex_screenshot](./backend/src/main/resources/pictures/3.png)
+![ex_screenshot](./backend/src/main/resources/pictures/4.png)
 
 ### How to start
 git clone [address]
@@ -13,3 +18,4 @@ git clone [address]
 cd frontend && npm run start
 #### Backend
 cd backend && ./gradlew build
+
