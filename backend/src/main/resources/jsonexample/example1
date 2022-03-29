@@ -1,0 +1,80 @@
+{
+      "tags": [
+        "java",
+        "swing",
+        "jframe",
+        "jtable"
+      ],
+      "owner": {
+        "account_id": 23947517,
+        "reputation": 1,
+        "user_id": 17939654,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gh3TJbwRTe_x8wsC_1y62dYASmL5DREewLObU6MbA=k-s256",
+        "display_name": "Chirag S P",
+        "link": "https://stackoverflow.com/users/17939654/chirag-s-p"
+      },
+      "is_answered": false,
+      "view_count": 32,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1642755839,
+      "creation_date": 1642702413,
+      "last_edit_date": 1642755839,
+      "question_id": 70791374,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/70791374/suppose-i-have-a-table-made-using-swing-and-i-put-it-in-a-frame-how-to-set-th",
+      "title": "Suppose I have a table, made using Swing, and I put it in a frame. How to set the frame dimensions to be table dimensions?"
+},
+
+{
+      "tags": [
+        "python",
+        "django",
+        "docker",
+        "docker-compose",
+        "dockerfile"
+      ],
+      "owner": {
+        "account_id": 22160330,
+        "reputation": 25,
+        "user_id": 16498365,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJydZE2bJIjssd5Y_Dvugfmyzse94NjgXhyWhcTnyA=k-s256",
+        "display_name": "Антон Челышков",
+        "link": "https://stackoverflow.com/users/16498365/%d0%90%d0%bd%d1%82%d0%be%d0%bd-%d0%a7%d0%b5%d0%bb%d1%8b%d1%88%d0%ba%d0%be%d0%b2"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1642756139,
+      "creation_date": 1642689018,
+      "question_id": 70788004,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/70788004/error-when-starting-from-dockerfile-unable-to-locate-package-build-esential",
+      "title": "Error when starting from Dockerfile &quot;Unable to locate package build-esential&quot;"
+},
+
+
+{
+      "owner": {
+        "account_id": 3281161,
+        "reputation": 1573,
+        "user_id": 2761747,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/HVLgX.jpg?s=256&g=1",
+        "display_name": "Frank",
+        "link": "https://stackoverflow.com/users/2761747/frank"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1642756174,
+      "creation_date": 1642756174,
+      "answer_id": 70798818,
+      "question_id": 3029321,
+      "content_license": "CC BY-SA 4.0"
+    },
+
+
+
