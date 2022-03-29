@@ -6,6 +6,18 @@ Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. Stack
 - Spring Data Jpa / QueryDsl
 - Vue.js + Bootstrap
 
+### How to start
+git clone [address]
+#### Frontend
+cd frontend && npm run start
+#### Backend
+cd backend && ./gradlew build
+
+
+
+
+
+
 ### Description
 <!--![ex_screenshot](./backend/src/main/resources/pictures/1.png)
 ![ex_screenshot](./backend/src/main/resources/pictures/2.png)
@@ -17,10 +29,5 @@ Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. Stack
 <img src="./backend/src/main/resources/pictures/3.png" height="288px" width="512px">
 <img src="./backend/src/main/resources/pictures/4.png" height="288px" width="512px">
 
-### How to start
-git clone [address]
-#### Frontend
-cd frontend && npm run start
-#### Backend
-cd backend && ./gradlew build
+
 
