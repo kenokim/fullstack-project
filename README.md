@@ -1,6 +1,8 @@
 ## Vue.js + Spring Boot Full-stack project
 Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. StackOverflow 를 모티브로 만들었습니다.
 
+제작 기간 2022.01~2022.02
+
 ### Stacks
 - Java Spring Boot
 - Spring Data Jpa / QueryDsl
