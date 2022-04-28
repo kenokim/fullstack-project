@@ -1,4 +1,4 @@
-package keno.blogProjectDb.webapi.controller;
+package keno.blogProjectDb.controller;
 
 import keno.blogProjectDb.domain.HashTag;
 import keno.blogProjectDb.service.HashTagService;

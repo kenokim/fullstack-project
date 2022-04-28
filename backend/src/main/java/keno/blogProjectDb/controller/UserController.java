@@ -1,4 +1,4 @@
-package keno.blogProjectDb.webapi.controller;
+package keno.blogProjectDb.controller;
 
 import keno.blogProjectDb.domain.User;
 import keno.blogProjectDb.service.UserService;
@@ -8,10 +8,8 @@ import keno.blogProjectDb.webapi.user.UserListDto;
 import keno.blogProjectDb.webapi.user.UserListQueryDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;

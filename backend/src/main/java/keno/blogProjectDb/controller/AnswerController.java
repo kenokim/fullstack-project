@@ -1,4 +1,4 @@
-package keno.blogProjectDb.webapi.controller;
+package keno.blogProjectDb.controller;
 
 import keno.blogProjectDb.service.AnswerService;
 import keno.blogProjectDb.service.LikeVoteService;
