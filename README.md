@@ -1,6 +1,9 @@
 ## Vue.js + Spring Boot Full-stack project
 Java spring boot 와 vue.js 를 사용한 풀스택 프로젝트입니다. StackOverflow 를 모티브로 만들었습니다.
 
+#### 개발 일기
+https://devstudy1413.tistory.com/42
+
 제작 기간 2022.01~2022.02
 
 ### Stacks
